@@ -41,6 +41,10 @@ Misinformation during crises, emergencies, or sensitive events can lead to panic
 
 *AI / Logic*
 - Rule-based keyword detection  
-- Intent and risk scoring  
+- Intent and risk scoring
+- Harm/risk scoring logic
+
+Database
+- SQLite
 
 ---
